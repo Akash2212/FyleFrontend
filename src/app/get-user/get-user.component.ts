@@ -7,7 +7,6 @@ import { Router } from '@angular/router';
   styleUrls: ['./get-user.component.css']
 })
 export class GetUserComponent implements OnInit {
- title = 'Fyle';
 
   username = "";
   
